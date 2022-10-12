@@ -1,0 +1,71 @@
+fr.umontpellier.iut.rails.ConservationTest
+ ✓  testConstruireTunnelSupplementDeuxCartesSuccess
+  ✗ testPrendreCartesWagonVisibles3LocomotivesPiocheVide (timeout)
+ ✓  testConstruireTunnelSupplementDeuxCartesAbandon
+  ✗ testPrendreCartesWagonVisibles3Locomotives
+  ✗ testConstruireTunnelPasDeSupplement
+  ✗ testPrendreCartesVisiblesPiocheVide
+ ✓  testCapturerVilles
+ ✓  testConstruireTunnelSupplementDeuxCartesEchec
+  ✗ testPrendreCartesWagonVisibles
+ ✓  testConstruireFerry
+ ✓  testConstruireRoute
+fr.umontpellier.iut.rails.JeuProfExtraTest
+ ✓  testPiocheDestination
+ ✓  testPiocheDestinationPileVide
+ ✓  testInitialisationMelangeCartesWagon
+  ✗ testRetirerCarteVisiblePiocheEtDefausseVide
+  ✗ testInitialisationCartesVisibles3Locomotives
+ ✓  testChangementJoueurActif
+ ✓  testPiocherCarteWagon
+ ✓  testRetirerCarteVisible
+ ✓  testPiocherCarteWagonPiocheVide
+  ✗ testFinDePartie
+ ✓  testDefausserCarteWagon
+ ✓  testDefausserCarteWagonCartesVisiblesManquantes
+ ✓  testDestinationsInitialesTousLesJoueursDefaussent
+ ✓  testDestinationsInitialesChangementJoueurActif
+fr.umontpellier.iut.rails.JeuProfTest
+ ✓  testInitialisationCartesVisibles
+ ✓  testCartesWagon
+ ✓  testDestinationsInitialesTousLesJoueursPassent
+fr.umontpellier.iut.rails.JoueurProfExtraTest
+ ✓  testScoreRouteLongueur1
+ ✓  testScoreRouteLongueur2
+ ✓  testScoreRouteLongueur3
+ ✓  testScoreRouteLongueur4
+ ✓  testScoreRouteLongueur6
+  ✗ testScoreRouteLongueur8
+  ✗ testConstruireDeuxiemeGareAvecLocomotives
+ ✓  testScoreGare
+  ✗ testConstruireGareSiNbGaresZero
+ ✓  testCapturerTunnelPiochVide
+  ✗ testPrendreCartesWagonLocomotiveEnDeuxième
+ ✓  testConstruireDeuxGares
+ ✓  testConstruireGareEnChangeantDeCouleur
+ ✓  testAnnulerAchatTunnelPuisConstruireGare
+  ✗ testPrendreCartesWagonLocomotiveEnPremier
+  ✗ testPrendre2CartesWagonsVisibles
+  ✗ testCapturerTunnelPiochVideDefausseVide
+ ✓  testCapturerRouteCouleursDifferentes
+  ✗ testPrendre2CartesWagonsVisiblesPilesVides
+ ✓  testCapturerTunnel2CartesSupplementaires
+fr.umontpellier.iut.rails.JoueurProfTest
+ ✓  testJouerTourCapturerTunnelOK
+ ✓  testJouerTourCapturerTunnelImpossible
+ ✓  testJouerTourPiocherDestinations
+ ✓  testJouerTourCapturerRoutePlusieursCouleursPossibles
+ ✓  testJouerTourConstruireUneGare
+ ✓  testInitialisation
+ ✓  testChoisirDestinations
+ ✓  testJouerTourPrendreCartesWagon
+ ✓  testJouerTourCapturerTunnelAbandonne
+ ✓  testJouerTourCapturerFerry
+ ✓  testJouerTourCapturerRoute
+fr.umontpellier.iut.rails.PartieAleatoireTest
+  ✗ testPartieAleatoire
+fr.umontpellier.iut.rails.SubRouteTest
+ ✓  testNouvelleSousClasseRoute
+
+44 / 61 tests réussis
+Note: 14.4/20
